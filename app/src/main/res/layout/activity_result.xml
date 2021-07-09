@@ -46,7 +46,7 @@
         android:layout_marginEnd="16dp"
         android:layout_marginRight="16dp"
         android:gravity="center"
-        android:maxLines="2"
+        android:maxLines="3"
         android:text="홍길동님의\n로또번호입니다"
         android:textSize="60sp"
         app:autoSizeMaxTextSize="60sp"
